@@ -1,0 +1,43 @@
+---
+layout: page
+title: Elizabeth Hernández Vivas
+---
+
+<div>
+
+  <h1>Elizabeth Hernández Vivas</h1>
+  <subtitle>Estudiante de Estudios Literarios, editora y escritora</subtitle>
+  <p><strong>ORCID:</strong> <a href="https://orcid.org/0000-0000-0000-0000">https://orcid.org/0000-0000-0000-0000</a></p>
+  <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com">Perfil en Google Scholar</a></p>
+
+  <img src="/assets/elizabeth-hernandez.jpg" alt="Foto de Elizabeth Hernández Vivas" width="150">
+
+  <h2>Descripción académica</h2>
+  <p>
+    Soy estudiante del pregrado en Estudios Literarios de la Universidad Pontificia Bolivariana. Mi énfasis es en Creación, Medios y Edición. 
+    Me apasiona fomentar el amor por la lectura y la escritura en la infancia, y he trabajado dictando talleres para niños y jóvenes. Tengo experiencia en corrección de estilo, edición y diagramación de textos literarios y académicos, así como en ilustración para proyectos editoriales. Sueño con crear libros infantiles que lleguen incluso a los rincones más olvidados.
+  </p>
+
+  <h2>Idiomas</h2>
+  <ul>
+    <li>Español (nativo)</li>
+    <li>Inglés (avanzado)</li>
+    <li>Francés (intermedio)</li>
+  </ul>
+
+  <h2>Intereses académicos</h2>
+  <ul>
+    <li>Estudios de literatura precolombina</li>
+    <li>Estudios de género</li>
+    <li>Estudios socioculturales</li>
+    <li>Pedagogía de la lectura</li>
+  </ul>
+
+  <h2>Intereses literarios</h2>
+  <ul>
+    <li>Literatura infantil</li>
+    <li>Literatura del Romanticismo</li>
+    <li>Investigación literaria</li>
+  </ul>
+
+</div>
